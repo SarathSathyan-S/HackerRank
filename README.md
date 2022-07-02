@@ -1,7 +1,7 @@
 
-# <img src=".\Assets\HackerRank_Icon.png" width="25">  HackerRank
+# <img src="HackerRank_Icon.png" width="25">  HackerRank
 
-This repository contains solutions to all hackerRank problems using python <img src="./Assets/python_icon.png" width="10">.
+This repository contains solutions to all hackerRank problems using python <img src="python_icon.png" width="10">.
 
 ### Algorithms
 - Warmup
